@@ -1,7 +1,7 @@
 # Exp5 Bubble Sort and Merge sort in CUDA
 <h3>NAME: JAGANNIVASH U M</h3>
 <h3>REGISTER NO: 212224240059</h3>
-<h3>EX. NO: </h3>
+<h3>EX. NO: 5</h3>
 <h3>DATE : 26-05-2026</h3>
 
 **Objective:**
